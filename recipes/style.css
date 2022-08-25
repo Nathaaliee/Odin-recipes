@@ -1,21 +1,22 @@
 /* style.css */
 
+.font{
+    font-family: Verdana, Geneva, sans-serif; 
+}
 
 h1 {
-    font-family: Verdana, Geneva, sans-serif;
+    
     color: red;
 }
 
-div {
-    font-family: Verdana, Geneva, sans-serif;
+.links {
+    font-family: Verdana, Geneva, sans-serif; 
     color: blue;
+    font-size: 20px;
 }
 
 .titles {
-    font-family: Verdana, Geneva, sans-serif;
+   
     color: red;
 }
 
-.text {
-    font-family: Verdana, Geneva, sans-serif;
-}
