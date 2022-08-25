@@ -1,5 +1,6 @@
 /* style.css */
 
+
 h1 {
     font-family: Verdana, Geneva, sans-serif;
     color: red;
@@ -10,5 +11,11 @@ div {
     color: blue;
 }
 
-/* Shakshouka.html */
+.titles {
+    font-family: Verdana, Geneva, sans-serif;
+    color: red;
+}
 
+.text {
+    font-family: Verdana, Geneva, sans-serif;
+}
